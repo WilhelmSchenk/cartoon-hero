@@ -1,0 +1,72 @@
+
+body {
+	margin: 0;
+	font-family: Helvetica, Arial, sans-serif;
+	line-height: 30px;
+}
+
+header {
+	background-color: #b3ecff;
+	padding-top: 30px;
+	padding-bottom: 10px;
+	text-align: center
+}
+
+h1, h2 {
+	font-family: 'Comic Neue', cursive;
+}
+
+header h1 {
+	color:white;
+	font-size: 50px;
+	
+}
+
+header img{
+	border-radius: 20px;
+	border: 6px solid white;
+	width: 150px
+
+}
+
+main {
+	max-width: 800px;
+	margin: 0 auto;
+	padding: 0 20px;
+}
+
+main img{
+	max-width: 100%
+}
+
+h2 {
+	font-size: 35px;
+	color: #003BD9;
+	margin: 40px 0 10px;
+}
+
+a{
+	color: red;
+}
+
+a:hover{
+	color: white;
+	background-color: purple;
+}
+
+footer{
+	background-color: #003BD9;
+	text-align: center;
+	color: white;
+	padding: 50px;
+}
+
+footer p{
+	margin: 0;
+}
+
+div.italic, p.italic{
+	font-style: italic;
+}
+
+
